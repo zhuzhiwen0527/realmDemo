@@ -1,0 +1,17 @@
+PODS:
+  - Realm (0.103.2):
+    - Realm/Headers (= 0.103.2)
+  - Realm/Headers (0.103.2)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+
+DEPENDENCIES:
+  - Realm (~> 0.103.1)
+  - SDWebImage (~> 3.8.1)
+
+SPEC CHECKSUMS:
+  Realm: 448f0416079fe5b0ed947e7d86f3c4e1c75826cb
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+
+COCOAPODS: 0.39.0
